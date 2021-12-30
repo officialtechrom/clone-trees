@@ -8,8 +8,8 @@
    
    #remove_old_trees
      rm -rf device/xiaomi/onclite
-     rm -rf vendor/xiaomi/onclite
-     rm -rf kernel/xiaomi/onclite 
+     #rm -rf vendor/xiaomi/onclite
+     #rm -rf kernel/xiaomi/onclite 
    
    #clone_HALS
      #git clone https://github.com/afterallafk/android_hardware_qcom_display.git -b lineage-18.1-caf-msm8996 hardware/qcom-caf/msm8996/display
