@@ -12,10 +12,10 @@
      rm -rf kernel/xiaomi/onclite 
    
    #clone_HALS
-     git clone https://github.com/afterallafk/android_hardware_qcom_display.git -b lineage-18.1-caf-msm8996 hardware/qcom-caf/msm8996/display
-     git clone https://github.com/LineageOS/android_hardware_qcom_audio.git -b lineage-18.1-caf-msm8996 hardware/qcom-caf/msm8996/audio
-     git clone https://github.com/soumyajit007-creator/android_hardware_qcom_media -b lineage-18.1-caf-msm8996 hardware/qcom-caf/msm8996/media
-     git clone https://github.com/soumyajit007-creator/hardware_qcom-caf_wlan -b twelve hardware/qcom-caf/wlan
+     git clone https://github.com/afterallafk/hardware_qcom-caf_msm8996_audio.git -b 12 hardware/qcom-caf/msm8996/audio
+     git clone https://github.com/afterallafk/hardware_qcom-caf_msm8996_media.git -b 12 hardware/qcom-caf/msm8996/media
+     git clone https://github.com/afterallafk/hardware_qcom-caf_msm8996_display.git -b 12 hardware/qcom-caf/msm8996/display
+     git clone https://github.com/afterallafk/hardware_qcom-caf_wlan.git -b 12 hardware/qcom-caf/wlan
     
     #clone_trees
      git clone https://github.com/officialtechrom/device_xiaomi_onclite_awaken-12.git -b 12 device/xiaomi/onclite
