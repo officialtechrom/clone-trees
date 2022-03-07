@@ -26,4 +26,4 @@
     rm -rf packages/apps/Launcher3
     
     #clone_Launcher
-    git clone https://github.com/Project-Awaken/android_packages_apps_Launcher3 packages/apps/Launcher3
+    git clone https://github.com/Octavi-OS/platform_packages_apps_Launcher3.git packages/apps/Launcher3
