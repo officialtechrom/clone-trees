@@ -7,7 +7,7 @@
      #rm -rf hardware/qcom-caf/msm8996/media
    
    #remove_old_trees
-     rm -rf device/xiaomi/onclite
+     #rm -rf device/xiaomi/onclite
      #rm -rf vendor/xiaomi/onclite
      #rm -rf kernel/xiaomi/onclite 
    
@@ -18,6 +18,12 @@
      #git clone https://github.com/afterallafk/hardware_qcom-caf_wlan.git -b 12 hardware/qcom-caf/wlan
     
     #clone_trees
-     git clone https://github.com/officialtechrom/device_xiaomi_onclite_komodo.git -b 12 device/xiaomi/onclite
+     #git clone https://github.com/officialtechrom/device_xiaomi_onclite_komodo.git -b 12 device/xiaomi/onclite
      #git clone https://github.com/officialtechrom/vendor_xiaomi_onclite.git -b 12 vendor/xiaomi/onclite
      #git clone https://github.com/officialtechrom/android_kernel_xiaomi_onclite.git -b lineage-18.1 kernel/xiaomi/onclite
+    
+    #Launcher
+    rm -rf packages/apps/Launcher3
+    
+    #clone_Launcher
+    git clone https://github.com/Project-Awaken/android_packages_apps_Launcher3 packages/apps/Launcher3
