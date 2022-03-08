@@ -18,7 +18,7 @@
      #git clone https://github.com/afterallafk/hardware_qcom-caf_wlan.git -b 12 hardware/qcom-caf/wlan
     
     #clone_trees
-     git clone https://github.com/officialtechrom/device_xiaomi_onclite_komodo.git -b 12 device/xiaomi/onclite
+     #git clone https://github.com/officialtechrom/device_xiaomi_onclite_komodo.git -b 12 device/xiaomi/onclite
      #git clone https://github.com/officialtechrom/vendor_xiaomi_onclite.git -b 12 vendor/xiaomi/onclite
      #git clone https://github.com/officialtechrom/android_kernel_xiaomi_onclite.git -b lineage-18.1 kernel/xiaomi/onclite
     
@@ -26,4 +26,4 @@
     rm -rf packages/apps/Launcher3
     
     #clone_Launcher
-    git clone https://github.com/projectarcana-aosp/vendor_lawnchair -b 12.x vendor/lawnchair
+    git clone https://github.com/VoltageOS/packages_apps_Launcher3.git packages/apps/Launcher3
