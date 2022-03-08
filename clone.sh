@@ -7,7 +7,7 @@
      #rm -rf hardware/qcom-caf/msm8996/media
    
    #remove_old_trees
-     rm -rf device/xiaomi/onclite
+     #rm -rf device/xiaomi/onclite
      #rm -rf vendor/xiaomi/onclite
      #rm -rf kernel/xiaomi/onclite 
    
