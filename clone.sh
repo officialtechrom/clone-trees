@@ -18,7 +18,7 @@
      git clone https://github.com/afterallafk/hardware_qcom-caf_wlan.git -b 12 hardware/qcom-caf/wlan
     
     #clone_trees
-     git clone https://github.com/officialtechrom/device_xiaomi_onclite_raven12.git -b 12 device/xiaomi/onclite
+     git clone https://github.com/officialtechrom/device_xiaomi_onclite_awaken12.git -b awaken12 device/xiaomi/onclite
      git clone https://github.com/officialtechrom/vendor_xiaomi_onclite.git -b 12 vendor/xiaomi/onclite
      git clone https://github.com/officialtechrom/android_kernel_xiaomi_onclite.git -b lineage-18.1 kernel/xiaomi/onclite
     
